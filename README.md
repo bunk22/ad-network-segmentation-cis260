@@ -1,4 +1,3 @@
-# ad-network-segmentation-cis260
 
 # Active Directory with Network Segmentation (VirtualBox)
 
